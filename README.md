@@ -51,6 +51,7 @@ playwright-pom-keyword
 ├── tsconfig.json
 └── README.md
 
+⸻
 Test Design Methodology
 
 The test cases for the NokCash flow were designed using the following techniques:
@@ -72,6 +73,8 @@ Test Case Documentation
 
 All designed test scenarios are documented in the following Google Sheet:
 
+⸻
+
 Test Case Document
 https://docs.google.com/spreadsheets/d/1qVe0M_kUVbCEKVb1qbM8sCuicHCLZH4r2pLvhtmgJTw/edit?usp=sharing
 
@@ -83,6 +86,8 @@ The document contains:
 	•	Expected results
 	•	Priority
 	•	Automation status
+
+⸻
 
 Algorithm Assignment
 
