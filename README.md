@@ -76,7 +76,7 @@ All designed test scenarios are documented in the following Google Sheet:
 ⸻
 
 Test Case Document
-https://docs.google.com/spreadsheets/d/1qVe0M_kUVbCEKVb1qbM8sCuicHCLZH4r2pLvhtmgJTw/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1qVe0M_kUVbCEKVb1qbM8sCuicHCLZH4r2pLvhtmgJTw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qVe0M_kUVbCEKVb1qbM8sCuicHCLZH4r2pLvhtmgJTw/edit?usp=sharing)
 
 The document contains:
 	•	Test ID
